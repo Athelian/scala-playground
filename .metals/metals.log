@@ -17,3 +17,19 @@
 2022.11.17 21:54:50 WARN  no build target for: /home/ath/scala/helloInteractive/helloInteractive.scala[0m
 2022.11.17 21:54:53 INFO  no build target found for /home/ath/scala/helloInteractive/helloInteractive.scala. Using presentation compiler with project's scala-library version: 3.2.0[0m
 2022.11.17 21:54:54 INFO  time: code lens generation in 3.21s[0m
+2022.11.17 22:12:22 INFO  [0m
+2022.11.17 22:12:22 INFO  Template applied in /home/ath/scala/./scala3[0m
+2022.11.17 22:12:22 INFO  [0m
+2022.11.17 22:12:22 INFO  time: ran 'giter8.Giter8' in 1.61s[0m
+Nov 17, 2022 10:13:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+2022.11.17 22:13:08 INFO  no build target found for /home/ath/scala/scala3/src/main/scala/hello.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0[0m
+2022.11.17 22:13:08 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 20s[0m
+2022.11.17 22:13:08 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 0.32s[0m
+2022.11.17 22:13:09 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 0.26s[0m
+2022.11.17 22:13:21 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 0.3s[0m
+2022.11.17 22:14:49 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 0.22s[0m
+2022.11.17 22:14:49 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 0.2s[0m
+2022.11.17 22:14:51 INFO  time: evaluated worksheet 'hello.worksheet.sc' in 0.17s[0m
+Nov 17, 2022 10:18:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 296
